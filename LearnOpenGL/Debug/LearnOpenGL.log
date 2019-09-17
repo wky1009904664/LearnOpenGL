@@ -1,0 +1,11 @@
+﻿  FirstCamera.cpp
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(239): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(300): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(301): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(302): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10099.000\source\repos\learnopengl\learnopengl\firstcamera.cpp(326): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  LearnOpenGL.vcxproj -> C:\Users\10099.000\source\repos\LearnOpenGL\Debug\LearnOpenGL.exe
